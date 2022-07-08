@@ -1,2 +1,3 @@
 # sort-your-files
-this program will sort your files in a folder using the path of your folder 
+this program sorts your files in a folder 
+this program includes python 
